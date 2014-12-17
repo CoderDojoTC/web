@@ -67,6 +67,3 @@ Here are a list of resources that may prove useful to mentors and students.
 
 ### Beginner Guides
 [http://learn.shayhowe.com/html-css/getting-to-know-html/](http://learn.shayhowe.com/html-css/getting-to-know-html/)
-
-
-
