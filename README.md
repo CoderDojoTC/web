@@ -50,6 +50,9 @@ Below are some exercise ideas that have worked in the past. This section is a wo
 * Use `<ul>` and `<li>` tags to create a food menu
 * Add pictures of the food
 
+### Javascript 
+[http://adriann.github.io/programming_problems.html](http://adriann.github.io/programming_problems.html)
+
 More exercises to be added...
 
 #Resources
