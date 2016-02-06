@@ -57,7 +57,7 @@ The W3 school pages have good examples with tryit code that you can also copy/pa
 [http://www.w3schools.com/jquery/jquery_fade.asp](http://www.w3schools.com/jquery/jquery_fade.asp)
 [http://www.w3schools.com/jquery/jquery_animate.asp](http://www.w3schools.com/jquery/jquery_animate.asp)
 [CodePen with sample animations](http://codepen.io/anon/pen/RPgXzN)
-
+[CodePen with a sample weather widget in jquery](http://codepen.io/anon/pen/YwJLJE)
 More exercises to be added...
 
 #Resources
