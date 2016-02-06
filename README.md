@@ -54,11 +54,11 @@ Below are some exercise ideas that have worked in the past. This section is a wo
 [http://adriann.github.io/programming_problems.html](http://adriann.github.io/programming_problems.html)
 
 The W3 school pages have good examples with tryit code that you can also copy/paste for use in CodePen. Note that if you're using jquery in a blank CodePen, be sure to add jquery in the settings.
-[http://www.w3schools.com/jquery/jquery_fade.asp](http://www.w3schools.com/jquery/jquery_fade.asp)
-[http://www.w3schools.com/jquery/jquery_animate.asp](http://www.w3schools.com/jquery/jquery_animate.asp)
-[CodePen with sample animations](http://codepen.io/anon/pen/RPgXzN)
-[CodePen with a sample weather widget in jquery](http://codepen.io/anon/pen/YwJLJE)
-More exercises to be added...
+* [http://www.w3schools.com/jquery/jquery_fade.asp](http://www.w3schools.com/jquery/jquery_fade.asp)
+* [http://www.w3schools.com/jquery/jquery_animate.asp](http://www.w3schools.com/jquery/jquery_animate.asp)
+* [CodePen with sample animations](http://codepen.io/anon/pen/RPgXzN)
+* [CodePen with a sample weather widget in jquery](http://codepen.io/anon/pen/YwJLJE)
+
 
 #Resources
 Here are a list of resources that may prove useful to mentors and students. 
